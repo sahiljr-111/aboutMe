@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahiljr111
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me - instagram @sahil_radadiya_111_
 
